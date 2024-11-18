@@ -21,4 +21,4 @@ echo "src-git helloworld https://github.com/fw876/helloworld" >> feeds.conf.defa
 echo "src-git passwall https://github.com/xiaorouji/openwrt-passwall.git;main" >> feeds.conf.default
 echo "src-git passwall2 https://github.com/xiaorouji/openwrt-passwall2.git;main" >> feeds.conf.default
 echo "src-git passwall_packages https://github.com/xiaorouji/openwrt-passwall-packages.git;main" >> feeds.conf.default
-echo "src-git v2raya https://github.com/v2rayA/v2raya-openwrt" >> feeds.conf.default
+#echo "src-git v2raya https://github.com/v2rayA/v2raya-openwrt" >> feeds.conf.default
